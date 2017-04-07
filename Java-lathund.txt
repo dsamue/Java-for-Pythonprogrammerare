@@ -1,0 +1,12 @@
+Javainfo
+
+Fixa en fil som vanligt  (prefix .java)
+Gå till rätt mapp i terminalen (cd desktop/kth...)
+Kör javac filnamn.java     (notera javaC )
+Kör java filnamn           (notera java och ingen ändelse)
+
+
+OBS! Filnamnet måste vara samma som den publika klassen
+
+Statiska metoder kräver inga inputs typ. 
+Void är ett sätt att säga att metoden/funktionen inte kommer att returnera något.
